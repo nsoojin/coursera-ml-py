@@ -20,7 +20,7 @@ This project was coded in Python 3.6
 The fastest and easiest way to install all these dependencies at once is to use [Anaconda](https://www.continuum.io/downloads).
 
 
-### Important Note
+## Important Note
 There are a couple of things to keep in mind before starting.
 * all column vectors from octave/matlab are flattened into a simple 1-dimensional ndarray. (e.g., y's and thetas are no longer m x 1 matrix, just a 1-d ndarray with m elements.)
 So in Octave/Matlab, 
