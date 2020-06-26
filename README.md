@@ -35,6 +35,8 @@ So in Octave/Matlab,
     ```
 * numpy.matrix is never used, just plain ol' numpy.ndarray
 
+[![banner](https://images.gitads.io/coursera-ml-py)](https://tracking.gitads.io/?repo=coursera-ml-py)
+
 ## Contents
 #### [Exercise 1](https://github.com/nsoojin/coursera-ml-py/tree/master/machine-learning-ex1)
 * Linear Regression
