@@ -37,6 +37,8 @@ So in Octave/Matlab,
 
 ## Helpful Resources
 
+[Go to website](https://tracking.gitads.io/?repo=coursera-ml-py)
+
 [![banner](https://images.gitads.io/coursera-ml-py)](https://tracking.gitads.io/?repo=coursera-ml-py)
 
 ## Contents
